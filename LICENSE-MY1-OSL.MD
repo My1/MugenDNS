@@ -1,6 +1,6 @@
 My1's Open Source License (My1-OSL)
 
-© 2013-2016 My1 ( https://github.com/My1 )
+© My1 ( https://github.com/My1 )
 
 This Lincense is supposed to be a nice little mix of the AGPL, LGPL and a bit of MIT, Apache and BSD.
 
